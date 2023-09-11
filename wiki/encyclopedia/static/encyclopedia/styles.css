@@ -1,0 +1,73 @@
+/* Сброс стандартных стилей */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Стили для кода */
+  code {
+    white-space: pre-wrap; /* Автоматический перенос строк внутри блока кода */
+    background-color: #f2f2f2;
+    padding: 4px;
+    border-radius: 4px;
+  }
+  
+  /* Стили для заголовка h1 */
+  h1 {
+    margin: 0;
+    padding: 20px 0 10px;
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Стили для текстового поля */
+  textarea {
+    height: 70vh;
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Основной контейнер */
+  .main {
+    padding: 20px;
+  }
+  
+  /* Стили для поля поиска */
+  .search {
+    width: 100%;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    outline: none;
+  }
+  
+  /* Стили для боковой панели */
+  .sidebar {
+    background-color: #ffffff;
+    height: 100vh;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Стили для заголовка h2 в боковой панели */
+  .sidebar h2 {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Дополнительные стили для ссылок, списков и других элементов можно добавить по мере необходимости. */
+  
+  
